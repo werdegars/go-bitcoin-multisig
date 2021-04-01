@@ -15,7 +15,7 @@ import (
 	mathrand "math/rand"
 	"time"
 
-	"golang.org/x/crypto/ripemd160x"
+	"golang.org/x/crypto/ripemd160"
 	secp256k1 "github.com/toxeus/go-secp256k1"
 )
 
